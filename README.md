@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nuxnuxx
-- 👀 I’m interested in minecraft mod creation
+- 👀 I’m interested everything
 - 🌱 I’m currently learning c++,c,python,js for my study and freetime
-- 💞️ I’m looking to collaborate on minecraft mod creation
 - 📫 my discord : Nuxnux#1312
