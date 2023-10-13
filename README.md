@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Nuxnuxx
-- Neovim Average User
+
